@@ -8,4 +8,4 @@ plot(mtcars$mpg, mtcars$hp, col="red")
 #ganti branch baru, tulis di terminal :
 # git checkout -b nama-branch-baru
 
-
+hist(mtcars$mpg)
