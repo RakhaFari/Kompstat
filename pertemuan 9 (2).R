@@ -26,3 +26,10 @@ boxplot(mtcars$mpg)
 hist(mtcars$mpg)
 plot(mtcars$cyl,mtcars$disp)
 >>>>>>> branch1
+
+plot(mtcars$hp,mtcars$drat)
+
+# cara menambahkan repository R ini ke github, tulis di terminal :
+# git remote add origin https://github.com/RakhaFari/Kompstat.git
+# git branch -M main
+# git push -u origin main
