@@ -6,3 +6,12 @@ plot(mtcars$mpg, mtcars$hp, col="blue")
 plot(mtcars$mpg, mtcars$hp, col="red")
 
 boxplot(mtcars$mpg)
+
+#buat branch baru, tulis di terminal :
+# git checkout -b nama-branch-baru
+
+#kalo mau ganti ke branch utama :
+# git checkout master
+
+#kalo mau ganti ke branch yang baru dibuat tadi:
+# git checkout nama-branch-baru
