@@ -15,3 +15,6 @@ boxplot(mtcars$mpg)
 
 #kalo mau ganti ke branch yang baru dibuat tadi:
 # git checkout nama-branch-baru
+
+#kalo mau merge, pertama kembali ke 'master', lalu ketik ini di terminal :
+# git merge nama-branch-baru
