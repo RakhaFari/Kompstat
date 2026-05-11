@@ -12,3 +12,4 @@ mean(mtcars$mpg)
 sd(mtcars$mpg)
 max(mtcars$mpg)
 mtcars$mpg
+data<-mtcars
