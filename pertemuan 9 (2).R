@@ -9,3 +9,4 @@ plot(mtcars$mpg, mtcars$hp, col="red")
 # git checkout -b nama-branch-baru
 
 hist(mtcars$mpg)
+plot(mtcars$cyl,mtcars$disp)
